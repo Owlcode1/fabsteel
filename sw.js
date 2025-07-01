@@ -1,5 +1,5 @@
 // sw.js
-const CACHE_NAME = "presento-cache-v1";
+const CACHE_NAME = "fabsteel-cache-v1";
 const urlsToCache = [
   "index.html",
   "./assets/css/main.css",
